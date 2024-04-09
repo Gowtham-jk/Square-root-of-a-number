@@ -38,7 +38,8 @@ print("Square root of the number: {}".format(square_root))
 
 ## Output:
 
-![square](https://github.com/Gowtham-jk/Square-root-of-a-number/assets/149857834/152ac557-1a9b-499f-93c0-8a4ef3ffb0ff)
+![Screenshot 2024-04-09 140241](https://github.com/Gowtham-jk/Square-root-of-a-number/assets/149857834/a4f71565-58f2-4c6d-8c04-e7f227075c77)
+
 
 
 ## Result:
